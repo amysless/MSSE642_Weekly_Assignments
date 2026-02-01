@@ -5,8 +5,6 @@
 
 This category focuses on **who is allowed to do what**, ensuring that authenticated users can only access data and functionality explicitly authorized for their role and ownership.
 
-> In previous OWASP editions, this category included issues such as *Insecure Direct Object References (IDOR)* and *Missing Function Level Access Control*.
-
 ---
 
 ## What Is Access Control?
@@ -116,3 +114,4 @@ Added additional prompt:
 Broken Access Control remains one of the most critical application security risks because it enables attackers to bypass intended restrictions with minimal effort. When authorization checks are missing or improperly enforced, attackers can directly access sensitive data, escalate privileges, and compromise application integrity.
 
 Preventing OWASP A01 vulnerabilities requires consistent, server-side enforcement of authorization rules, validation of resource ownership, and adherence to least-privilege principles. By centralizing access control logic, denying access by default, and actively monitoring authorization failures, organizations can significantly reduce the risk of unauthorized access in accordance with OWASP best practices.
+
