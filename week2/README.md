@@ -114,7 +114,7 @@ Developers should rely on **well-maintained cryptographic libraries** and framew
 
 ---
 
-## 87. Hands-On Validation Using Replit (Prompt-Driven Simulation)
+## 7. Hands-On Validation Using Replit (Prompt-Driven Simulation)
 
 To reinforce mitigation concepts for OWASP A02, I enhanced the Replit application built in week 1 to create an educational application that contrasts insecure cryptographic practices with secure implementations of password hashing, key management, and data protection.
 
@@ -136,3 +136,4 @@ Added additional prompt "add an option to also test cyrptographic failures and p
 Cryptographic failures represent a critical risk because they directly expose sensitive data to attackers, often at large scale and with minimal effort once data is obtained. Weak algorithms, improper password handling, poor key management, and misconfigured transport security can transform minor data exposure into full account compromise, financial fraud, and regulatory violations.
 
 Preventing OWASP A02 vulnerabilities requires more than simply enabling encryption. Organizations must apply strong, modern cryptographic standards, manage keys and secrets securely, enforce encrypted communication, and minimize the storage and exposure of sensitive data. When cryptography is implemented correctly and consistently, it serves as a foundational defense that significantly reduces the impact of other application vulnerabilities.
+
