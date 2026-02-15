@@ -137,6 +137,7 @@ Subsequent prompt:
 `this should be playground to demo positvie and negative scenarios`
 
 ---
+
 ### Ideal Interaction Flow
 
 1. Run the application with a vulnerable library version.
