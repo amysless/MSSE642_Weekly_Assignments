@@ -232,19 +232,6 @@ Subsequent prompt:
 
 ---
 
-## Lab Goals
-
-- Demonstrate how lack of monitoring increases attacker dwell time  
-- Show how alerting stops brute-force attacks early  
-- Illustrate the importance of audit logs for forensic analysis  
-- Provide an interactive experience where users:
-  1. Simulate failed login attempts  
-  2. Observe no alert in vulnerable mode  
-  3. Enable protections  
-  4. Observe triggered alerts and simulated containment  
-
----
-
 ## Compliance Alignment
 
 Security logging and monitoring controls align with:
